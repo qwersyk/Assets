@@ -12,7 +12,8 @@
 ![newelle-wiki-dark](./newelle-wiki-dark.svg)
 ![newelle-extension](./newelle-extension.svg)
 ![newelle-extension-dark](./newelle-extension-dark.svg)
-
+![join-our-discord](./discord.svg)
+![join-our-discord-dark](./discord-dark.svg)
 
 ### Packages
 
